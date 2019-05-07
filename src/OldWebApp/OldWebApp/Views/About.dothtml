@@ -1,0 +1,10 @@
+﻿@viewModel OldWebApp.ViewModels.AboutViewModel, OldWebApp
+@masterPage Views/Site.dotmaster
+
+<dot:Content ContentPlaceHolderID="MainContent">
+    <h2>{{value: Title}}.</h2>
+    <h3>Your application description page.</h3>
+    <p>Use this area to provide additional information.</p>
+
+</dot:Content>
+

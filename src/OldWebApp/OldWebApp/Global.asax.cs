@@ -13,8 +13,6 @@ namespace OldWebApp
         void Application_Start(object sender, EventArgs e)
         {
             RouteTable.Routes.MapPageRoute("Default", "", "~/Default.aspx");
-            RouteTable.Routes.MapPageRoute("About", "About", "~/About.aspx");
-            RouteTable.Routes.MapPageRoute("Contact", "Contact", "~/Contact.aspx");
         }
     }
 }
