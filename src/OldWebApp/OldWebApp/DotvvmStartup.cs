@@ -16,6 +16,7 @@ namespace OldWebApp
 
         private void ConfigureRoutes(DotvvmConfiguration config, string applicationPath)
         {
+            config.RouteTable.Add("Default", "", "Views/Default.dothtml");
             config.RouteTable.Add("About", "About", "Views/About.dothtml");
             config.RouteTable.Add("Contact", "Contact", "Views/Contact.dothtml");
         }
