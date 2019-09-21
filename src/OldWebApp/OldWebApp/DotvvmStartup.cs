@@ -2,6 +2,7 @@
 using DotVVM.Framework.Configuration;
 using DotVVM.Framework.ResourceManagement;
 using Microsoft.Extensions.DependencyInjection;
+using OldWebApp.Model;
 
 namespace OldWebApp
 {
