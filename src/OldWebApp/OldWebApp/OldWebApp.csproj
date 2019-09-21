@@ -204,7 +204,6 @@
     </Compile>
     <Compile Include="Startup.cs" />
     <Compile Include="ViewModels\AboutViewModel.cs" />
-    <Compile Include="ViewModels\ContactViewModel.cs" />
     <Compile Include="ViewModels\SiteViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -216,7 +215,6 @@
     <Content Include="Scripts\jquery-3.3.1.min.map" />
     <Content Include="Views\Site.dotmaster" />
     <Content Include="Views\About.dothtml" />
-    <Content Include="Views\Contact.dothtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
