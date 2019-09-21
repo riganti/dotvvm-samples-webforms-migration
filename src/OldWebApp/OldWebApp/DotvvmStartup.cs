@@ -2,6 +2,7 @@
 using DotVVM.Framework.Configuration;
 using DotVVM.Framework.ResourceManagement;
 using Microsoft.Extensions.DependencyInjection;
+using OldWebApp.Model;
 
 namespace OldWebApp
 {
@@ -40,6 +41,8 @@ namespace OldWebApp
         public void ConfigureServices(IDotvvmServiceCollection options)
         {
             options.AddDefaultTempStorages("Temp");
+
+            options.Services.AddScoped<AppDbContext>();
         }
     }
 }
