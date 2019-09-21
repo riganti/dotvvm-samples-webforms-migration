@@ -2,6 +2,7 @@
 using DotVVM.Framework.Configuration;
 using DotVVM.Framework.ResourceManagement;
 using Microsoft.Extensions.DependencyInjection;
+using OldWebApp.Model;
 
 namespace OldWebApp
 {
@@ -18,7 +19,6 @@ namespace OldWebApp
         {
             config.RouteTable.Add("Default", "", "Views/Default.dothtml");
             config.RouteTable.Add("About", "About", "Views/About.dothtml");
-            config.RouteTable.Add("Contact", "Contact", "Views/Contact.dothtml");
         }
 
         private void ConfigureControls(DotvvmConfiguration config, string applicationPath)
