@@ -3,6 +3,8 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <AssemblyName>OldWebApp</AssemblyName>
+    <RootNamespace>OldWebApp</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
