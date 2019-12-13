@@ -1,6 +1,6 @@
 # Migrating ASP.NET Web Forms app to .NET Core using DotVVM
 
-[![Move your Web Forms app to .NET Core without rewriting everything](https://sec.ch9.ms/ch9/5b61/bfba828a-503a-4ef4-8aa0-6e827baa5b61/B321_Custom.jpg)](https://channel9.msdn.com/Events/dotnetConf/NET-Conf-2019/B321)
+[![Move your Web Forms app to .NET Core without rewriting everything](https://github.com/riganti/dotvvm/blob/master/video_thumb.png)](https://channel9.msdn.com/Events/dotnetConf/NET-Conf-2019/B321)
 
 [DotVVM](https://github.com/riganti/dotvvm) is an open source MVVM framework for web applications that supports ASP.NET and ASP.NET Core. 
 
