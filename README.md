@@ -55,7 +55,7 @@ In real-world applications, there might be some other things to change like auth
 
 ### Step 5: The `05_dotnetcore` branch shows the changes made to the project file in order to switch the project to .NET Core 3.0.
 
-* The [OldWebApp.csproj](https://github.com/riganti/dotvvm-samples-webforms-migration/blob/05_dotnetcore/src/OldWebApp/OldWebApp.NetCore/OldWebApp.NetCore.csproj) was converted to the new format and the `Dotvvm.Owin` package was replaced by `Dotvvm.AspNetCore`.
+* The [OldWebApp.NetCore.csproj](https://github.com/riganti/dotvvm-samples-webforms-migration/blob/05_dotnetcore/src/OldWebApp/OldWebApp.NetCore/OldWebApp.NetCore.csproj) was converted to the new format and the `Dotvvm.Owin` package was replaced by `Dotvvm.AspNetCore`.
 * The scripts and CSS files were moved to the `wwwroot` folder.
 * The [Startup.cs](https://github.com/riganti/dotvvm-samples-webforms-migration/blob/05_dotnetcore/src/OldWebApp/OldWebApp.NetCore/Startup.cs) was updated to use the ASP.NET Core `IServiceCollection` and `IAppBuilder`.
 
