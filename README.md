@@ -18,11 +18,11 @@ or
 or
 `git clone https://github.com/riganti/dotvvm-samples-webforms-migration-vbnet.git`
 
-2. Switch to the `01_webforms` branch
+2. Switch to the `01_webforms` branch\
 ![Manage branches](images/wf002.png)
 ![Switch to the 01_webforms branch](images/wf003.png)
 
-3. Open `src/OldWebApp/OldWebApp.sln`
+3. Open `src/OldWebApp/OldWebApp.sln`\
 ![Open the solution file](images/wf004.png)
 
 4. Right-click `OldWebApp` project and select **View > View in Browser**
