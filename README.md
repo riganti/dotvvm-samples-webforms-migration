@@ -4,7 +4,7 @@ This sample shows the process of incremental migration of old ASP.NET Web Forms 
 
 > See [VB.NET version of the sample](https://github.com/riganti/dotvvm-samples-webforms-migration-vbnet) if you are using VB.NET in your Web Forms app.
 
-![![Screenshot](images/wf001.png)]
+![Screenshot](images/wf001.png)
 
 ## Prerequisites
 * Make sure you have installed [DotVVM for Visual Studio](https://www.dotvvm.com/install)
