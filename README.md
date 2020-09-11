@@ -4,7 +4,7 @@ This sample shows the process of incremental migration of old ASP.NET Web Forms 
 
 > See [VB.NET version of the sample](https://github.com/riganti/dotvvm-samples-webforms-migration-vbnet) if you are using VB.NET in your Web Forms app.
 
-![Screenshot](images/wf001.png)
+![Screenshot](https://raw.githubusercontent.com/riganti/dotvvm-samples-webforms-migration/master/images/wf001.png)
 
 ## Prerequisites
 * Make sure you have installed [DotVVM for Visual Studio](https://www.dotvvm.com/install)
@@ -19,14 +19,14 @@ or
 `git clone https://github.com/riganti/dotvvm-samples-webforms-migration-vbnet.git`
 
 2. Switch to the `01_webforms` branch\
-![Manage branches](images/wf002.png)
-![Switch to the 01_webforms branch](images/wf003.png)
+![Manage branches](https://raw.githubusercontent.com/riganti/dotvvm-samples-webforms-migration/master/images/wf002.png)
+![Switch to the 01_webforms branch](https://raw.githubusercontent.com/riganti/dotvvm-samples-webforms-migration/master/images/wf003.png)
 
 3. Open `src/OldWebApp/OldWebApp.sln`\
-![Open the solution file](images/wf004.png)
+![Open the solution file](https://raw.githubusercontent.com/riganti/dotvvm-samples-webforms-migration/master/images/wf004.png)
 
 4. Right-click `OldWebApp` project and select **View > View in Browser**
-![View OldWebApp in Browser](images/wf005.png)
+![View OldWebApp in Browser](https://raw.githubusercontent.com/riganti/dotvvm-samples-webforms-migration/master/images/wf005.png)
 
 5. Review the functionality of the Web Forms application that is going to be modernized.
 
