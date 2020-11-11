@@ -1,15 +1,15 @@
-# Migrating ASP.NET Web Forms app to .NET Core using DotVVM
+![Screenshot](https://raw.githubusercontent.com/riganti/dotvvm-samples-webforms-migration/master/images/wf001.png)
+
+## Migrating ASP.NET Web Forms app to .NET Core using DotVVM
 
 This sample shows the process of incremental migration of old ASP.NET Web Forms apps to .NET Core using [DotVVM](https://github.com/riganti/dotvvm). 
 
 > See [VB.NET version of the sample](https://github.com/riganti/dotvvm-samples-webforms-migration-vbnet) if you are using VB.NET in your Web Forms app.
 
-![Screenshot](https://raw.githubusercontent.com/riganti/dotvvm-samples-webforms-migration/master/images/wf001.png)
-
-## Prerequisites
+### Prerequisites
 * Make sure you have installed [DotVVM for Visual Studio](https://www.dotvvm.com/install)
 
-## How to run the sample
+### How to run the sample
 
 1. **C# version:** [Open the GitHub repo in Visual Studio](git-client://clone/?repo=https%3A%2F%2Fgithub.com%2Friganti%2Fdotvvm-samples-webforms-migration)
 or
@@ -36,7 +36,7 @@ or
     * `04_migration_complete` – `Default` page was rewritten into DotVVM, the project is ready to be switched to .NET Core
     * `05_dotnetcore` – The project `CSPROJ` file was changed to the new .NET Core syntax
 
-## What you can learn in the sample
+### What you can learn in the sample
 
 * How to use DotVVM together with ASP.NET Web Forms in the same application
 * See the differences between DotHTML and ASPX syntax (see [Cheat Sheet](https://www.dotvvm.com/webforms) for more info)
