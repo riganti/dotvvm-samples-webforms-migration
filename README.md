@@ -119,7 +119,7 @@ As you can see, the migration is not easy - there is no magic wizard that will j
 * [Twitter @dotvvm](https://twitter.com/dotvvm)
 * [Samples](https://www.dotvvm.com/samples)
 * [Cheat-sheet for Web Forms developers](https://www.dotvvm.com/webforms)
-* [ASPX Converter](https://www.dotvvm.com/webforms/converter)
+* [ASPX Converter](https://www.dotvvm.com/webforms/convert)
 
 
  
